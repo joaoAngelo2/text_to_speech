@@ -7,7 +7,7 @@ Searching wikipidia, searching in google...
 
 to work in you computer you can follow the steps:
 
-_donwload the project:
+_download the project:
 
 _download the libraries: pyaudio(most recent), gTTs, SpeechRecognition
 
