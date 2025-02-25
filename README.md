@@ -6,5 +6,9 @@ Searching wikipidia, searching in google...
 
 
 to work in you computer you can follow the steps:
-_donwload the project
-_download the libraries: 
+
+_donwload the project:
+
+_download the libraries: pyaudio(most recent), gTTs, SpeechRecognition
+
+After you have setup the project you can integrate in your projects.
